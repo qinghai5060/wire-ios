@@ -1427,7 +1427,7 @@ SettingsClientViewController {
 RegistrationTextFieldCell {
     backgroundColor: clear;
     
-    emailTextField: @{
+    textField: @{
         font: $font-normal;
         textColor: $color-text-foreground-dark;
         backgroundColor: clear

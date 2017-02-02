@@ -89,6 +89,7 @@
 #import "ConversationListViewController+Private.h"
 #import "FullscreenImageViewController.h"
 #import "PhoneNumberViewController.h"
+#import "CountryCodeTableViewController.h"
 
 // Helper objects
 #import "PushTransition.h"
