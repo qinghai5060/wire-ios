@@ -1434,7 +1434,7 @@ RegistrationTextFieldCell {
     }
 }
 
-ConfirmEmailDescriptionView {
+DescriptionHeaderView {
     backgroundColor: clear;
     descriptionLabel: @{
         font: $font-normal;
